@@ -24,8 +24,8 @@ spec:
   owner: TeamA
   lifecycle: experimental
 #  system: Demo
- dependsOn:
-   - component:default/mbhein-service
+  dependsOn:
+    - component:default/mbhein-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
