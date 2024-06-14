@@ -21,7 +21,7 @@ metadata:
     - mbhein
 spec:
   type: service
-  owner: mbhein
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
